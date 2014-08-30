@@ -1,0 +1,19 @@
+%SDSE V2.0: Simulation of DNA Sequence Evolution
+*Set up data disk
++XSET
++SDSE
+*Enter substitution schemes
++XSCH
++SDSE
+*Generate random DNA sequences
++XSEC
++SDSE
+*Simulate DNA evolution
++XSIM
++SDSE
+*Estimate divergence
++XDIV
++SDSE
+*Exit to DOS
+#End of data for AUTOMENU
+
